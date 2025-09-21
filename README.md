@@ -181,7 +181,7 @@ P.S. Повноцінно вони працюють лише на Android (До�
 В: Undertale 1.08
     
 ### П: Як завантажити переклад?
-В: Там же, де й перекладене UNDERTALE DEMO -- у [Releases](https://github.com/Roavello/undertale_ua/releases) на [KULI](https://kuli.com.ua/undertale#translations), або [Nexusmods](https://www.nexusmods.com/undertale/mods/12?tab=files)
+В: Там же, де й перекладене UNDERTALE DEMO -- у [Releases](https://github.com/Pereclaw/undertale-ua/releases) на [KULI](https://kuli.com.ua/undertale#translations), або [Nexusmods](https://www.nexusmods.com/undertale/mods/12?tab=files)
 
 
 ### П: Коли вийде переклад?
