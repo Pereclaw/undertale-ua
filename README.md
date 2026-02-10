@@ -128,7 +128,6 @@ P.S. Повноцінно вони працюють лише на Android (До�
 <p>
 <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
 <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
-<a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
 <details>
 <summary>Усі, хто працювали над перекладом:</summary>
 <h3>Організатор</h3>
