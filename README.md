@@ -122,6 +122,7 @@ P.S. Повноцінно вони працюють лише на Android (До�
 # Новини та оголошення
 #### 22 листопада 2026
 **Українська локалізація UNDERTALE - Оновлення v1.0.1.35-beta/v1.0.5-lite/v1.6-A**
+
 7 листопада вийшло це оновлення, доступне для завантаження **на всіх сторінках локалізації**, а не тільки в LBK Launcher.
 <br>
 Також воно нарешті доступне на *Android* і *PS Vita*!!
@@ -130,8 +131,15 @@ P.S. Повноцінно вони працюють лише на Android (До�
 <h4><p align="right">— Pereclaw</h4>
 
 #### 21 серпня 2026
-Відтепер це оновлення (v1.0.1.11) в [LBK Launcher](https://lbklauncher.com/games/undertale/pereclaw-localization), окрім Windows, також доступне для встановлення на ***MacOS*** і ***Linux***!!!
+Відтепер це оновлення (v1.0.1.11) в [LBK Launcher](https://lbklauncher.com/games/undertale/pereclaw-localization), окрім Windows, також доступне для встановлення на ***MacOS***<br>і ***Linux***!!!
 І не лише для власників копії гри в Steam, але також GOG і Microsoft Store!!
+
+Тепер ми займемося його портуванням на Android і PS Vita! ^ ^
+<h4><p align="right">— Pereclaw</h4>
+
+#### 16 серпня 2026
+**Українська локалізація UNDERTALE - Оновлення v1.0.1.11**
+
 
 #### 25 червня 2025
 **Українська локалізація UNDERTALE - Реліз (v1.0)**
