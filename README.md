@@ -40,7 +40,6 @@
     <img alt="Демонстрація рамок" title="Демонстрація рамок" src="assets/images/readme/InGameBorders.gif">
 </details>
 <br CLEAR="left">
-<h3></h3>
 <img alt="Контролер не під'єднано" title="Будь ласка, під'єднайте контролер." src="assets/images/readme/BordersIconNoGamepad.png" align="left" height=200px width=210px>
 <h3>Повідомлення про від'єднаний контролер</h3>
 Якщо під час гри ваш ґеймпад розрядився, або ви його від'єднали, гра автоматично стає на павзу та пише щось цікавеньке!
