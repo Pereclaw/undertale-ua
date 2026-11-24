@@ -127,7 +127,8 @@ P.S. Повноцінно вони працюють лише на Android (До�
 Також воно нарешті доступне на *Android* і *PS Vita*!!
 
 З часом ми випустимо ще одне, вже заключне оновлення локалізації, а поки зичимо всім приємної гри! UwU
-<h4><p align="right">— Pereclaw<h4>
+<h4><p align="right">— Pereclaw
+
 #### 21 серпня 2026
 Відтепер це оновлення (v1.0.1.11) в [LBK Launcher](https://lbklauncher.com/games/undertale/pereclaw-localization), окрім Windows, також доступне для встановлення на ***MacOS*** і ***Linux***!!!
 І не лише для власників копії гри в Steam, але також GOG і Microsoft Store!!
