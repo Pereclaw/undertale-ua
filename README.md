@@ -168,7 +168,7 @@ P.S. Повноцінно вони працюють лише на Android (До�
 <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
 <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
 <details>
-<summary>Усі, хто працювали над перекладом:</summary>
+<summary>Список тих, хто доклався до перекладу:</summary>
 <h3>Організатор</h3>
 <ol>
     <li type="disc"><a href="https://github.com/Roavello">Andrew "Roavello" Camomile</a><br>
@@ -178,7 +178,7 @@ P.S. Повноцінно вони працюють лише на Android (До�
     <li type="disc"><a href="https://github.com/Roavello">Andrew "Roavello" Camomile</a><br>
     <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
     <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
-    <li type="disc"><a href="https://discord.com/users/1004070402840084590">x1ki_</a><br>
+    <li type="disc">x1ki_<br>
     <li type="disc"><a href="https://discord.com/users/246731296435470337">Sandwick</a><br>
     <li type="disc"><a href="https://discord.com/users/509078768288137236">Chiromy</a><br>
     <li type="disc"><a href="https://discord.com/users/493110908424421377">BoneKiller</a><br>
@@ -196,7 +196,8 @@ P.S. Повноцінно вони працюють лише на Android (До�
 </ol>
 <h3>Озвучення</h3>
 <ol>
-    <li type="disc">Квітик - <a href="https://discord.com/users/565975326451171363">pita_guy</a><br>
+    <li type="disc">Квітик — <a href="https://discord.com/users/565975326451171363">pita_guy</a><br>
+	<li type="disc">Меттатон — <a href="https://www.youtube.com/@SeriousDamir">SeriousDamir</a><br>
 </ol>
 <h3>Особлива подяка</h3>
 <ol>
@@ -206,8 +207,8 @@ P.S. Повноцінно вони працюють лише на Android (До�
     <li type="disc"><a href="https://discord.com/users/569481225148956672">foalex</a><br>
     <li type="disc"><a href="https://x.com/skolomyikosh">Мигаль Кушницькый</a><br>
     <li type="disc"><a href="https://github.com/danielah05/UndertaleDecomp">Vultumast та Daniela за Undertale Decompilation</a><br>
-    <li type="disc"><a href="https://gamejolt.com/games/undertale-android/726064">Booker Dev за Мобільний порт Undertale
-</a><br>
+    <li type="disc"><a href="https://gamejolt.com/games/undertale-android/726064">Booker Dev за Мобільний порт Undertale</a><br>
+	<li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a> і <a href="https://discord.com/users/373903086529544202">Омега</a> за пострелізні виправлення в коді<br>
 </ol>
 </details>
 <br>
