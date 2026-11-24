@@ -1,32 +1,31 @@
 # Новий українізатор для гри Undertale!
 Ця модифікація, як не дивно, додасть солов'їну мову та багато інших цікавих речей, які вам точно сподобаються.
 
-(Не плутати з перекладом Undertale на толоці.)
+(Не плутати з перекладом Undertale на Толоці.)
 
 <details>
     <summary>Приклади перекладу:</summary>
-    <img width="75%" alt="Логотип" title="Логотип" src="assets/images/examples/title.png">
-    <img width="75%" alt="Заставка" title="Заставка" src="assets/images/examples/intro.png">
-    <img width="75%" alt="Набір ім'я" title="Набір ім'я" src="assets/images/examples/naming.gif">
-    <img width="75%" alt="Збереження" title="Збереження" src="assets/images/examples/save.png">
-    <img width="75%" alt="Манекен. Стоїть." title="Манекен. Стоїть." src="assets/images/examples/dummy.png">
-    <img width="75%" alt="ЛІНИВА СРАКА!!!" title="ЛІНИВА СРАКА!!!" src="assets/images/examples/lazyass.gif">
-    <img width="75%" alt="Важлива річ" title="Важлива річ" src="assets/images/examples/importantthing.png">
-    <img width="75%" alt="Затишно" title="Затишно" src="assets/images/examples/snowdin.gif">    
-    <img width="75%" alt="Я теж приятелю." title="Я теж приятелю." src="assets/images/examples/bench.png">
-    <img width="75%" alt="Сподіваюся, мені ніхто не завадить його забрати." title="Сподіваюся, мені ніхто не завадить його забрати." src="assets/images/examples/legend.png">
-    <img width="75%" alt="Вітаємо у Жаркраї!" title="Вітаємо у Жаркраї!" src="assets/images/examples/welcome.gif">
-    <img width="75%" alt="Звісно хочу." title="Звісно хочу." src="assets/images/examples/hotanimals.gif">
+    <img width="75%" alt="Логотип" title="Логотип" src="assets/images/examples/title_utd.png">
+    <img width="75%" alt="Заставка" title="Заставка" src="assets/images/examples/intro_utd.png">
+    <img width="75%" alt="Набір ім'я" title="Набір ім'я" src="assets/images/examples/naming_utd.gif">
+    <img width="75%" alt="Збереження" title="Збереження" src="assets/images/examples/save_utd.png">
+    <img width="75%" alt="Опудало. Стоїть." title="Опудало. Стоїть." src="assets/images/examples/dummy_utd.png">
+    <img width="75%" alt="СРАКА ЛІНИВА!!!" title="СРАКА ЛІНИВА!!!" src="assets/images/examples/lazyass_utd.gif">
+    <img width="75%" alt="Важлива річ" title="Важлива річ" src="assets/images/examples/importantthing_utd.png">
+    <img width="75%" alt="Затишно" title="Затишно" src="assets/images/examples/snowdin_utd.gif">
+    <img width="75%" alt="Сподіваюся, мені ніхто не завадить його забрати." title="Сподіваюся, мені ніхто не завадить його забрати." src="assets/images/examples/legend_utd.png">
+    <img width="75%" alt="Вітаємо в Жаркраї!" title="Вітаємо в Жаркраї!" src="assets/images/examples/welcome_utd.gif">
+    <img width="75%" alt="Звісно хочу." title="Звісно хочу." src="assets/images/examples/hotanimals_utd.gif">
     
 </details>
 
 # Особливості перекладу
-![alt text](assets/images/readme/ConsoleExs.png "Консольні ексклюзиви. (Тепер РАЗОМ з Xbox One!)")
+![alt text](assets/images/readme/ConsoleExs.png "Консольні ексклюзиви. (Тепер РАЗОМ із Xbox One!)")
 
 Завжди хотіли пожертвувати купу віртуальних грошей богоподібному Тобі Фоксу, або відгамселити Скажену Нявкалку всередині височенної раковини Папайруса, але у вас є лише комп'ютер і смартфон? Нині ваш шанс здійснити свою мрію, ще й українською!
 <br CLEAR="left">
 <h3></h3>
-<img alt="Зустрічайте... Рамки!!!" title="Зустрічайте... рамки!!!" src="assets/images/readme/BordersIconBorders.png" align="left" height=200px width=210px>
+<img alt="Зустрічайте... рамки!!!" title="Зустрічайте... рамки!!!" src="assets/images/readme/BordersIconBorders.png" align="left" height=200px width=210px>
 <h3>Рамки</h3>
 Завдяки ним ігровий досвід на екрані роздільністю 16:9 буде набагато приємнішим!
 Обирайте, які вам до вподоби:
@@ -45,7 +44,7 @@
 <h3>Повідомлення про від'єднаний контролер</h3>
 Якщо під час гри ваш ґеймпад розрядився, або ви його від'єднали, гра автоматично стає на павзу та пише щось цікавеньке!
 <br>
-(Ця особливість за замовчуванням вимкнена)
+(Стандартно ця особливість вимкнена)
 <br CLEAR="left"> 
 <h3></h3>
 <img alt="Гав" title="Гав" src="assets/images/readme/BordersIconDogShrine.gif" align="left" height=200px width=210px>
@@ -64,7 +63,7 @@
 <br CLEAR="left"> 
 <h3></h3>
 <img alt="Ще трохи і я вийду в плюс..." title="Ще трохи і я вийду в плюс..." src="assets/images/readme/BordersIconDogsino.gif" align="left" height=200px width=210px>
-<h3>Собаче Казино</h3>
+<h3>Собаче казино</h3>
 Стривайте, це що... Азартна залежність у моїй грі для всієї сім'ї?
 <br>
 ЩЕ Б ПАК!
@@ -85,14 +84,21 @@
 Тому кажемо оревуар дурнуватому перекладачу і більше ніколи про нього не згадуємо!
 
 ### Більший розмір вікна гри
-Гра більше не буде мікроскопічною, адже розмір її вікна буде автоматично підлаштовуватися під розмір вашого екрана!
+Гра більше не буде мікроскопічною, адже розмір її вікна автоматично підлаштовуватиметься під розмір вашого екрана!
+
+### Різні платформи
+Локалізація доступна не лише на Windows, а ще й на Linux, Mac, Android та PS Vita!
 
 ### Підтримка контролерів
-Локалізація буде доступна не лише на Windows, а ще й на Linux, Mac, Android та PsVita!
+Локалізація має власну підтримку ґеймпадів, тож для гри з ними вам не потрібне введення Steam, додаткові програми та інші танці з бубном!
+<br>
+Під контролер також можна налаштувати кнопки, їхній стиль і чутливість стіків.
+<br>
+P.S. Через застарілість рушія UNDERTALE керування контролерами PS5 потребує додаткової ручної конфігурації кнопок дій у меню “Ґеймпад” параметрів гри або ввімкнення введення Steam.
 
-
-### Захисник зап'ястя
+### Швидкий пропуск тексту (також відомий як “Захисник зап'ястя”)
 Особливість із DELTARUNE, що дозволяє миттю пропускати текст, затиснувши кнопку [ігрового меню].
+<br>
 Корисна для ваших перепроходжень або спідранів!
 
 ### Примусова поява Перепрошую
@@ -103,10 +109,23 @@
 
 ### Нагороди з консолей
 Виконуйте цікаві завдання та отримуйте за це призи (вони ж “досягнення”)!
+<br>
 P.S. Повноцінно вони працюють лише на Android (Досягнення в Google Play) та Vita.
+<br>
 У локалізації на інших ОС -- суто косметичні й ніяк не впливають на ваш профіль у клієнтах ігрових сервісів.
 
+### Переозвучення Меттатона
+Невикористане, давно записане українське озвучення аудіокліпів Меттатона, яке не потрапило до локалізації на момент її релізу 2025 року, проте тепер його можна почути просто в грі!
+<br>
+...якщо ви цього, звісно, захочете.
+
 # Новини та оголошення
+#### 22 листопада 2026
+**Українська локалізація UNDERTALE - Оновлення v1.0.1.35-beta/v1.0.5-lite/v1.6-A**
+7 листопада вийшло оновлення v1.0.1.35-beta, доступне для завантаження **на всіх сторінках локалізації**, а не тільки в LBK Launcher.
+<br>
+Також воно нарешті доступне на *Android* і *PS Vita*!!
+
 #### 25 червня 2025
 **Українська локалізація UNDERTALE - Реліз (v1.0)**
 
