@@ -25,7 +25,7 @@
 Завжди хотіли пожертвувати купу віртуальних грошей богоподібному Тобі Фоксу, або відгамселити Скажену Нявкалку всередині височенної раковини Папайруса, але у вас є лише комп'ютер і смартфон? Нині ваш шанс здійснити свою мрію, ще й українською!
 <br CLEAR="left">
 <h3></h3>
-<img alt="Зустрічайте... рамки!!!" title="Зустрічайте... рамки!!!" src="assets/images/readme/BordersIconBorders.png" style="float:left;" height=200px width=210px>
+<img alt="Зустрічайте... рамки!!!" title="Зустрічайте... рамки!!!" src="assets/images/readme/BordersIconBorders.png" align="left" height=200px width=210px>
 <h3>Рамки</h3>
 Завдяки ним ігровий досвід на екрані роздільністю 16:9 буде набагато приємнішим!
 Обирайте, які вам до вподоби:
@@ -40,7 +40,7 @@
     <img alt="Демонстрація рамок" title="Демонстрація рамок" src="assets/images/readme/InGameBorders.gif">
 </details>
 <h3 CLEAR="left"></h3>
-<img alt="Контролер не під'єднано" title="Будь ласка, під'єднайте контролер." src="assets/images/readme/BordersIconNoGamepad.png" style="float:left;" height=200px width=210px>
+<img alt="Контролер не під'єднано" title="Будь ласка, під'єднайте контролер." src="assets/images/readme/BordersIconNoGamepad.png" align="left" height=200px width=210px>
 <h3>Повідомлення про від'єднаний контролер</h3>
 Якщо під час гри ваш ґеймпад розрядився, або ви його від'єднали, гра автоматично стає на павзу та пише щось цікавеньке!
 <br>
